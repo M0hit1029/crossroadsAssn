@@ -3,6 +3,7 @@
 This project is a React-based dashboard application built using Vite that demonstrates fetching data from a public GET API, managing global state with Redux Toolkit, and performing complete CRUD (Create, Read, Update, Delete) operations. The application fetches user data from a mock API and stores it in Redux, while create, update, and delete operations are handled locally within the Redux store. The UI is built using **shadcn/ui** components for a clean and modern design, and **React Toastify** is used to provide user-friendly toast notifications for actions like adding, updating, and deleting records. The dashboard displays data in a structured table with proper loading and error handling, making the project suitable for learning and demonstrating Redux-based state management in a real-world frontend scenario.
 
 ---
+## Live Demo :- https://crossroads-assn.vercel.app/
 
 ## 🚀 Features
 
