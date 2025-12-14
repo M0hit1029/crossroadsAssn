@@ -33,17 +33,18 @@ This project is a React-based dashboard application built using Vite that demons
 https://jsonplaceholder.typicode.com/users
 
 ## 📁 Project Structure
+<pre>
 frontend/
-│── public/
-│── src/
-│ ├── assets/
-│ ├── components/ # Reusable UI components (Table, Modal, Buttons)
-│ ├── features/ # Redux slices (CRUD logic)
-│ ├── services/ # API calls
-│ ├── store/ # Redux store configuration
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/      # Reusable UI components (Table, Modal, Buttons)
+│   ├── features/        # Redux slices (CRUD logic)
+│   ├── services/        # API calls
+│   ├── store/           # Redux store configuration
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 │
 ├── index.html
 ├── package.json
@@ -51,6 +52,7 @@ frontend/
 ├── postcss.config.js
 ├── vite.config.js
 └── README.md
+</pre>
 
 ## 🔄 CRUD Functionality
 
